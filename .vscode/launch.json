@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/song-eunseo/Desktop/programming2_2024-2/과제2",
+      "program": "/Users/song-eunseo/Desktop/programming2_2024-2/과제2/build/Debug/outDebug"
+    }
+  ]
+}
